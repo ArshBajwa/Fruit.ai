@@ -1,0 +1,76 @@
+.faq-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .faq-form {
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 600px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .faq-form input,
+  .faq-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .faq-form button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px 0;
+  }
+  
+  .faq-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .faq-list {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  .faq-item {
+    background: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .faq-item h4 {
+    margin: 0;
+  }
+  
+  .faq-item p {
+    margin: 5px 0;
+  }
+  
+  .faq-item button {
+    padding: 5px 10px;
+    margin: 5px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .faq-item button:hover {
+    background-color: #e53935;
+  }
+  

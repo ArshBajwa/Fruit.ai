@@ -1,0 +1,18 @@
+.home-container {
+    text-align: center;
+  }
+  
+  .services {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .services a {
+    display: block;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+  }
+  

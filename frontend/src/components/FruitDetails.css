@@ -1,0 +1,10 @@
+.fruit-details {
+    text-align: center;
+  }
+  
+  .fruit-details img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
